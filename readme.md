@@ -1,3 +1,5 @@
 Short Lnk
 
-This is a Short Lnk framework based on the instructions of Andrew Mead in Udmemy.com
+This is a Short Lnk framework webapp
+
+Author: Andrew Mead
