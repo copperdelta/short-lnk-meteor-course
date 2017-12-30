@@ -1,0 +1,19 @@
+// meteor create short-lnk --release 1.4.2.3
+// You can find this in the .meteor/local/release file
+
+// Delete all the blaze templating code in main.html & main.js
+
+// meteor npm install react@15.4.1 react-dom@15.4.1 react-router-dom@4.2.0 --save
+
+// meteor npm install  (this will look thru & install any uninstalled package)
+
+** this babel-polyfill was only installed with metoer version 1.4.2.3
+(// meteor npm install --save babel-polyfill@6.26.0
+-- then add: import 'babel-polyfill'; // to the very top client/main.js)
+
+// ********** meteor run ***************** //
+
+---- setup react Router
+
+
+also Take a look at browserHisory: github.com/mjackson/history
