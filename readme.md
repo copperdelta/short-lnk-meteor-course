@@ -2,6 +2,6 @@
 
 This is a Short Lnk framework webapp
 
-## Authors: 
-Andrew Mead
-Dean Galifianakis
+## Authors:
+* Andrew Mead
+* Dean Galifianakis
